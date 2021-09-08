@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a3428fb-9df5-440d-b7a6-56ee37ec8287" name="Default Changelist" comment="" />
+    <list default="true" id="7a3428fb-9df5-440d-b7a6-56ee37ec8287" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/New Text Document.txt" beforeDir="false" afterPath="$PROJECT_DIR$/New Text Document.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,14 +129,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="501" y="76" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1631127468340" />
-    <state x="183" y="74" key="MergeDialog" timestamp="1631124806736">
+    <state x="129" y="100" key="MergeDialog" timestamp="1631129895379">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="183" y="74" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1631124806736" />
-    <state x="764" y="376" width="389" height="264" key="MultipleFileMergeDialog" timestamp="1631124985761">
+    <state x="129" y="100" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1631129895379" />
+    <state x="764" y="376" width="389" height="264" key="MultipleFileMergeDialog" timestamp="1631129898206">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="764" y="376" width="389" height="264" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1631124985761" />
+    <state x="764" y="376" width="389" height="264" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1631129898206" />
     <state x="468" y="241" key="Vcs.Push.Dialog.v2" timestamp="1631129306539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
